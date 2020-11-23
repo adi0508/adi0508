@@ -2,7 +2,8 @@
 
 ## I'm Aditya Raval
 
-[My linkdin acount](https://www.linkedin.com/in/aditya-raval-3ba933195/)
+[![Kaggle Badge](https://img.shields.io/badge/-Aditya-mediumorchid?&style=flat&logo=kaggle&logoColor=#20beff&link=https://www.kaggle.com/adi0508)](https://www.kaggle.com/adi0508)
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya-mediumorchid?&style=flat&logo=Linkedin&logoColor=#20beff&link=https://www.linkedin.com/in/aditya-raval-3ba933195)](https://www.linkedin.com/in/aditya-raval-3ba933195)
 
 
 - 🌱 I’m currently learning Machine learning, Data Science, Deep Learning.
