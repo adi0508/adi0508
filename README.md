@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![linkdin]()](https://www.linkedin.com/in/aditya-raval-3ba933195/)
+[linkdin](https://www.linkedin.com/in/aditya-raval-3ba933195/)
 
 Here are some ideas to get you started:
 
