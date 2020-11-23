@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**adi0508/adi0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkdin]()](https://www.linkedin.com/in/aditya-raval-3ba933195/)
 
 Here are some ideas to get you started:
 
