@@ -14,5 +14,3 @@
 
 Thanks a lot! ❤️
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit-dwivedi&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
