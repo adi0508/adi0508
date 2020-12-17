@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-## I'm Aditya Raval
+### I'm Aditya Raval
 
-[![Kaggle Badge](https://img.shields.io/badge/-Aditya-mediumorchid?&style=flat&logo=kaggle&logoColor=#20beff&link=https://www.kaggle.com/adi0508)](https://www.kaggle.com/adi0508)
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya-mediumorchid?&style=flat&logo=Linkedin&logoColor=#20beff&link=https://www.linkedin.com/in/aditya-raval-3ba933195)](https://www.linkedin.com/in/aditya-raval-3ba933195)
+[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Aditya-blue)] (https://www.linkedin.com/in/aditya-raval-3ba933195) 
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Aditya-yellowgreen)](https://www.kaggle.com/adi0508)
 
 
 - 🌱 I’m currently learning Machine learning, Data Science, Deep Learning.
@@ -14,3 +14,4 @@
 
 Thanks a lot! ❤️
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adi0508&theme=nightowl&show_icons=true)
