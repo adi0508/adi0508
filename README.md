@@ -2,7 +2,7 @@
 
 ### I'm Aditya Raval
 
-[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Aditya-blue)] (https://www.linkedin.com/in/aditya-raval-3ba933195) 
+[![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Aditya-blue)](https://www.linkedin.com/in/aditya-raval-3ba933195) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Aditya-yellowgreen)](https://www.kaggle.com/adi0508)
 
 
