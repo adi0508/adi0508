@@ -4,7 +4,7 @@
 
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Aditya-blue)](https://www.linkedin.com/in/aditya-raval-3ba933195) 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Aditya-yellowgreen)](https://www.kaggle.com/adi0508)
-
+![](https://komarev.com/ghpvc/?username=adi0508&label=View+Counter)
 
 - 🌱 I’m currently learning Machine learning, Data Science, Deep Learning.
 - 🤔 I’m looking for help with Machine learning codes and model deployment.
